@@ -1,5 +1,5 @@
 # GitHub Authentication-application
-Full frontend and backend ( Angular , Spring Boot and mongoDb )
+Full frontend and backend ( Angular , Spring Boot and MYSQL )
 
 Steps to run the application
 =============================
@@ -11,7 +11,7 @@ Step3: Run the backend.
 In frontend                                                                    
 Step4: Open the app in vs code.                                                        
 Step5: Install npm using command : npm install                                                                                 
-Step6: Run the application using command : ng serve
+Step6: Run the application using command : ng serve                                                                                                                                                           
 Step7: Open any web browser                                                                                                                                       
    type : localhost:4200
 
